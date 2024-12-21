@@ -1,0 +1,3 @@
+58 7 * * * /usr/bin/python3 /app/8clock_e.py -H act.jiawei.xin -t sysop-get -m info-power -c cron-client -u admin -p 123456789 -P 1883 >> /app/app.log 2>&1 &
+58 21 * * * /usr/bin/python3 /app/22clock_e.py -H act.jiawei.xin -t sysop-get -m info-power -c cron-client -u admin -p 123456789 -P 1883 >> /app/app.log 2>&1 &
+0 0 * * 1,5 cat /dev/null > /app/app.log
