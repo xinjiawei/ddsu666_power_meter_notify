@@ -13,5 +13,5 @@
 
 ## 效果
 
-![example](https://cf.mb6.top/lib/images/github/20241221/a35ad6acecbdd4e105cad1236fd5c3e9.jpg)
+![example](https://cf.mb6.top/lib/images/github/20241221/a35ad6acecbdd4e105cad1236fd5c3e0.jpg)
 ![example](https://cf.mb6.top/lib/images/github/20241221/g84e56fsdg5vdgre49dg48fd9489dd51.png)
